@@ -1,0 +1,21 @@
+body {
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+}
+.container {
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input {
+  display: inline-block;
+  width: 200px;
+}
