@@ -19,4 +19,3 @@ These objectives reflect the project goals of including a database in a website 
 6. Run the commands inside of sqlCommands.sql file into the database.
 7. Move the project files to the "htdocs" folder in the XAMPP installation directory.
 8. Open a browser and go to http://localhost/PHP_Project/index.php.
-
